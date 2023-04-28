@@ -34,8 +34,8 @@ p {
 }
 
 .wrapper {
-    margin-right: 66%;
-    margin-left: 33%;
+    margin-right: auto;
+    margin-left: auto;
     max-width: 1024px;
     padding-right: 10px;
     padding-left: 10px;
