@@ -3,24 +3,24 @@
   <head>
     <link rel="stylesheet" href="assets/styles.css">
   </head>
-  <Div className="header">
+  <Div>
     <body>
-      <Div>
+      <Div className="header">
         <H1 className="header-title">LifeAsPixels Portfolio</H1>
         <p className="header-description">Live sample code, queries, and dashboards</p>
         <p className="header-description">Each of these pages has limited daily CPU time. After the limit is reached, slow processing speeds are expected.</p>
-      <Div>
-        <ul>
-          <li>
-            <a href="http://lifeaspixels.pythonanywhere.com/">Python Dash Example hosted on PythonAnywhere</a>
-          </li>
-          <li>
-            <a href="https://dataplatform.cloud.ibm.com/dashboards/3ee66765-1ec9-43de-800c-1a222199daf7/view/721dd57f1ff522c844b5c8e4079a28507a317759b4bb800b80d17b490f697897f36d47c0c87c4c58dd16506af0ef1a5ac1">IBM Cognos Analyics Example hosted on IBM</a>
-          </li>
-          <li>
-            <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2986145740543685/22998367939125/4203231664135560/latest.html">SparkSQL with Python Example hosted on Databricks</a>
-          </li>
-        </ul>
+      </Div>
+      <Div className="wrapper">
+        <Div className="card">
+          <a href="http://lifeaspixels.pythonanywhere.com/">Python Dash Example hosted on PythonAnywhere</a>
+        </Div>
+        <Div className="card">
+          <a href="https://dataplatform.cloud.ibm.com/dashboards/3ee66765-1ec9-43de-800c-1a222199daf7/view/721dd57f1ff522c844b5c8e4079a28507a317759b4bb800b80d17b490f697897f36d47c0c87c4c58dd16506af0ef1a5ac1">IBM Cognos Analyics Example hosted on IBM</a>
+        </Div>
+        <Div className="card">
+          <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2986145740543685/22998367939125/4203231664135560/latest.html">SparkSQL with Python Example hosted on Databricks</a>
+        </Div>
+      </Div>
     </body>
   </Div>
 </html>
