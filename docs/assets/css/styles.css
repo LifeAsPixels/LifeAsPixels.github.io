@@ -50,6 +50,7 @@ p {
 }
 
 .card {
+    border-radius: 7px;
     background-color: #FFFFFF;
     padding: 8px 32px 8px 32px;
     margin-bottom: 24px;
