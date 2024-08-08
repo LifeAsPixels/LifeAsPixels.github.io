@@ -1,2 +1,2 @@
 Follow the link below to go to the live site.
-# [lifeaspixels.github.io](https://lifeaspixels.github.io/)
+# [thauun.github.io](https://thauun.github.io/)
