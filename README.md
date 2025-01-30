@@ -4,14 +4,14 @@ Follow the link below to go to the live site.
 This project contains a link to sites where live examples of code including Python and SQL are hosted for viewing to see what I wrote working as intended!
 
 
-Avocado Sales
+# Avocado Sales
 
 Made with Python using Dash and Pandas. Hosted on PythonAnywhere.
 
-Superstore Sales
+# Superstore Sales
 
 Made with Tableau Desktop using fictitious sales data. Hosted on Tableau Public.
 
-Olympic Medal List
+# Olympic Medal List
 
 Made with Python and SparkSQL in Jupyter Notebook using historical Olympian data. Hosted on Databricks.
